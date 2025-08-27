@@ -1005,4 +1005,4 @@ Include industry-specific crisis/opportunity scenarios and responses.
 
 **Version**: 1.0
 **Last Updated**: August 2025
-**Compatible LLMs**: Claude, GPT-4, Gemini Pro, Command R+, and other advanced language models
+**Compatible LLMs**: Claude, GPT-4/5, Gemini Pro, Command R+, and other advanced language models
